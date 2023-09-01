@@ -2,10 +2,12 @@ h1{
     color: rgb(223, 192, 16);
     font-size: 120px;
     text-align: center;
-    text-shadow: 2px 2px 10px rgb(97, 91, 5);
+    text-shadow: 2px 15px 20px rgb(75, 75, 72);
     font-family: 'Teko', sans-serif;
     font-variant: small-caps;
     margin-bottom: 0%;
+    background: blue;
+    border: 50px outset lightgreen;
 }
 h2{
 
@@ -21,10 +23,12 @@ p{
     text-align: center;
     font-family: 'Share Tech Mono', monospace;
 }
-
+button{
+    background-color: rgb(243, 226, 194);
+}
 body{
-    background-image: url('mobile-technology.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
+    background: orange;
+    text-align: center;
+
 
 }
